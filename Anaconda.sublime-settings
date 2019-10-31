@@ -1,0 +1,21 @@
+{
+     "auto_formatting": true,
+    "autoformat_ignore":
+    [
+        "E501"
+    ],
+    "pep8_ignore":
+    [
+        "E501",
+        "W391"
+    ],
+    "enable_signatures_tooltip": true,
+    "anaconda_tooltip_theme": "popup",
+    "enable_docstrings_tooltip": true,
+    "display_signatures": true,
+    "anaconda_linter_underlines": false,
+    "anaconda_linter_mark_style": "none",
+    "disable_anaconda_completion": true,
+  "display_signatures": false,
+
+}
