@@ -1,0 +1,24 @@
+// SublimeLinter Settings - User
+{
+
+    "linters": {
+      "flake8":{
+         "disable": false,
+         "args": [
+            "--ignore","W391 W292 E501",
+            "--max-line-length", "100"
+         ],
+         "styles": [
+            {
+                "mark_style": "squiggly_underline",
+                // "scope": "region.greenish markup.error.sublime_linter",
+                // "types": ["error", "warning"]
+                
+            },
+            {
+                "icon": "pointer"
+            }
+         ]
+      },
+    },
+}
