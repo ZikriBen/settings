@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"draw_white_space": "none",
+	"font_face": "Source Code Pro",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_content": false,
+	"material_theme_accent_graphite": true,
+	"material_theme_compact_sidebar": true,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_errors_inline": false,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
